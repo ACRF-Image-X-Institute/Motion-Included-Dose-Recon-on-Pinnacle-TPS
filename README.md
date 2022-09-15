@@ -10,6 +10,8 @@ To compare dose distributions with and without LARK tracking for Pinnacle Treatm
 
 - Two trails 'with_motion' and 'without_motion' are created. The isocentre for each static beam are then shifted based on the basis of the tumour motion. The dose distribution for both trials are calculated. 
 
+- See the attached documentation for more details. 
+
 ## Requirements
 * Pinnacle Scripting and Python 2.7.9.
 * Traking Files format:
