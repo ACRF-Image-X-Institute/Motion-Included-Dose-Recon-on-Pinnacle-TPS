@@ -1,7 +1,7 @@
 # Motion included dose recon on Pinnacle TPS
 
 ## Purpose
-To compare dose distributions with and without LARK tracking for Pinnacle Treatment Planning System
+To compare dose distributions with and without intrafraction tumour motion tracking for Pinnacle Treatment Planning System
 
 ## Method
 - Generate motion data a fucntion of gantry angle. 
