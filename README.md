@@ -4,7 +4,7 @@
 To compare dose distributions with and without intrafraction tumour motion tracking on Pinnacle Treatment Planning System
 
 ## Method
-- Generate motion data a fucntion of gantry angle. 
+- Generate motion data as a function of gantry angle. 
 
 - The script converts VMAT beams to 2 degrees gantry separation and then splits each control point of each VMAT beam into a single static beam with the energy, MU, field aperture and MLC positions, gantry/collimator/couch angles from the control point. 
 
